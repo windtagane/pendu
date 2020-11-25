@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
 body {
     background-image: url('/public/img/forest.jpg');
 }
@@ -14,6 +16,8 @@ body {
 }
 
 .btn {
+    font-size: 32px;
+    font-family: 'Creepster', cursive;
     color: white;
 }
 
