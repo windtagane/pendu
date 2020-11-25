@@ -1,0 +1,22 @@
+body {
+    background-image: url('/public/img/forest.jpg');
+}
+
+#content {
+    margin: 0 auto;
+    width: 80%;
+    height: 100vh;
+    background-color: rgba(25, 25, 25, 0.8);
+}
+
+#result {
+    color: white;
+}
+
+.btn {
+    color: white;
+}
+
+.lifepoints {
+    color: white;
+}
